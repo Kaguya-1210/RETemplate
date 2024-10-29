@@ -1,4 +1,4 @@
-package re.kaguya.re_service.base.config;
+
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
